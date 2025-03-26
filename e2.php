@@ -1,3 +1,3 @@
 <?php
-    echo "<h3> Hola Programación </h3> Ligera <i> turno mañana 2025 </i>";
+    echo "<h3> Lola Serrano </h3> Programación Ligera <i> turno mañana 2025 </i>";
 ?>
